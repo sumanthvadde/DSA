@@ -6,7 +6,7 @@ import java.util.*;
 
 // A Java program to print topological
 // sorting of a graph using indegrees
-import java.util.*;
+import java.util.ArrayList;
  
 // Class to represent a graph
 class Graph {
